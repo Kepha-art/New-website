@@ -1,0 +1,29 @@
+h1 {
+                color: red;
+                font-size: xx-large;
+                background-color: green;
+
+        
+            }
+            h2 {
+                color: blue;
+                font-size: x-large;
+
+            }
+            .important {
+                color: darkgoldenrod;
+                background-color: green
+            }
+            .uppercase{
+                text-transform: uppercase;
+                
+
+            }
+            #The-one {
+                color: darkblue;
+
+            }
+            #ROZALA {
+                    color: red;
+                    text-transform: uppercase;
+            }
